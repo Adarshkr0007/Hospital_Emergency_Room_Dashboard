@@ -44,9 +44,8 @@ The dataset is simulated and anonymized for visualization purposes. It includes:
 
 ---
 
-## 📸 Dashboard Preview
 
-![Hospital Dashboard](./3e17dde5-fa1c-46ba-8e59-0135b00c1c2c.jpg)
+
 
 ---
 
